@@ -1,0 +1,4 @@
+- Use MVC structure
+- Always validate inputs
+- Use async/await (no callbacks)
+- Write tests for every endpoint
